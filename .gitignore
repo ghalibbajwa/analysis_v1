@@ -12,3 +12,5 @@
 /tests.csv
 /tests_cleaned.csv
 /traceroutes.csv
+.vscode/
+.env
